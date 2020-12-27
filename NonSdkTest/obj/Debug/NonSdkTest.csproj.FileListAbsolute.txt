@@ -1,0 +1,7 @@
+C:\Git\FileTransfer\NonSdkTest\bin\Debug\NonSdkTest.exe.config
+C:\Git\FileTransfer\NonSdkTest\bin\Debug\NonSdkTest.exe
+C:\Git\FileTransfer\NonSdkTest\bin\Debug\NonSdkTest.pdb
+C:\Git\FileTransfer\NonSdkTest\obj\Debug\NonSdkTest.csprojAssemblyReference.cache
+C:\Git\FileTransfer\NonSdkTest\obj\Debug\NonSdkTest.csproj.CoreCompileInputs.cache
+C:\Git\FileTransfer\NonSdkTest\obj\Debug\NonSdkTest.exe
+C:\Git\FileTransfer\NonSdkTest\obj\Debug\NonSdkTest.pdb
