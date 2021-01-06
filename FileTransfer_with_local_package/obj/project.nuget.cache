@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "jKTHqRKly77JpESrTx248qpcQ/HwstyNCjxUhmypoj6vw8fI6Fsqnk2q2tShpLZz7MjLPQAAAT4L+9rACP3Cjw==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\FileTransfer\\FileTransfer_with_local_package\\FileTransfer_with_local_package.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmitry_Lukyanov\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
+    "C:\\Users\\Dmitry_Lukyanov\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\Dmitry_Lukyanov\\.nuget\\packages\\mongodb.bson\\2.12.0\\mongodb.bson.2.12.0.nupkg.sha512",
+    "C:\\Users\\Dmitry_Lukyanov\\.nuget\\packages\\mongodb.driver\\2.12.0\\mongodb.driver.2.12.0.nupkg.sha512",
+    "C:\\Users\\Dmitry_Lukyanov\\.nuget\\packages\\mongodb.driver.core\\2.12.0\\mongodb.driver.core.2.12.0.nupkg.sha512",
+    "C:\\Users\\Dmitry_Lukyanov\\.nuget\\packages\\mongodb.libmongocrypt\\1.1.0-beta04\\mongodb.libmongocrypt.1.1.0-beta04.nupkg.sha512",
+    "C:\\Users\\Dmitry_Lukyanov\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\Dmitry_Lukyanov\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Dmitry_Lukyanov\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Dmitry_Lukyanov\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
