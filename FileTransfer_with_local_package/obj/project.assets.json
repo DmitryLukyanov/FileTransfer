@@ -445,6 +445,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+        "C:\\Git\\FileTransfer\\FileTransfer_with_local_package\\NuGet.Config",
         "C:\\Users\\Dmitry_Lukyanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
